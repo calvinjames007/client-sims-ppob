@@ -1,0 +1,62 @@
+.main-container {
+    display: flex;
+    height: 3.1in;
+    width: 100%;
+    background-color: none;
+    margin-top: 20px;
+}
+
+.first-container {
+    display: flex;
+    flex-direction: column;
+    background-color: none;
+    height: 250px;
+    width: 50%;
+    border-radius: 20px;
+}
+
+.first-container img {
+    margin-top: 5%;
+    height: 30%;
+    width: 30%;
+}
+
+.firstLine {
+    margin-top: 20px;
+    height: 100%;
+    width: 35%;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.secondLine {
+    margin-bottom: 50px;
+    font-size: 25px;
+    height: 100%;
+    width: 56%;
+    font-family: "Lucida Console", "Courier New", monospace ;
+}
+
+.second-container {
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    background-color: red;
+    height: 250px;
+    width: 50%;
+}
+
+.thirdLine {
+    margin-top: 50px;
+    width: 35%;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+.fourthLine {
+    width: 63%;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
